@@ -4,7 +4,7 @@ This is the first machine learning project on Kaggle platform. For last updated 
 
 Many different kind of machine learning model have been applied and compared to reach best solution. This model is based on Random Forest model.
 
-Steps
+Steps::
 Importing a Data as DataFrame
 Visualize the Data
 Cleanup and Transform the Data
