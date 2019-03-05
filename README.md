@@ -2,7 +2,7 @@
 ML on titanic tragic. 
 This is the first machine learning project on Kaggle platform. Latest updates are available at https://www.kaggle.com/aktaruzzaman/titanic-aman/notebook
 
-Many different kind of machine learning model have been applied and compared to reach the best possible solution. This model is based on Random Forest ensamble model.
+Multiple machine learning models have been applied and compared to reach the best possible solution. This model is based on Random Forest ensamble model.
 
 ## Steps
 - Importing a Data as DataFrame
