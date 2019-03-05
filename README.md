@@ -1,4 +1,4 @@
-# Titanic
+# Titanic machine learning from disaster (a kaggle project)
 ML on titanic tragic. 
 This is the first machine learning project on Kaggle platform. Latest updates are available at https://www.kaggle.com/aktaruzzaman/titanic-aman/notebook
 
